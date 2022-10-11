@@ -1,0 +1,26 @@
+{
+  "name": "smart-sip",
+  "version": "1.0.0",
+  "description": "Smart object UI project for CS6067",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizisawizard/smart-sip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizisawizard/smart-sip/issues"
+  },
+  "homepage": "https://github.com/lizisawizard/smart-sip#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}

@@ -1,0 +1,170 @@
+body {
+    font-family: 'open-sans', sans-serif;
+    text-align: center;
+    display: flex;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+.screen-container {
+    width: 550px;
+    height: 650px;
+    justify-content: center;
+    background-image: linear-gradient(#FFFFFF, #F5F5F5);
+    border: solid 2px black;
+    margin-right: 50px;
+}
+
+.battery-life {
+    display: flex;    
+    padding: 4px;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+}
+
+.battery-life.icon {
+    padding-left: 4px;
+}
+
+.battery-life p {
+    margin: 0;
+    color: white;
+}
+
+.back-arrow {
+    display: flex;
+    margin: 24px;
+}
+
+.back-arrow:hover {
+    transform: scale(1.1);
+    margin: 24px;
+    transform-origin: left;
+}
+
+/* Home page */
+.apple-ring {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepage.date {
+    position: absolute;
+    font-weight: 400;
+}
+
+.homepage.stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-page svg {
+    width: 40px;
+    height: 40px;
+}
+
+.home-page.icons-and-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-page.icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.home-page.icon {
+    padding: 12px 0px;
+}
+
+.home-page.stats {
+    display: flex;
+    flex-direction: column;
+    padding-left: 12px;
+}
+
+.home-page.stat {
+    padding: 23px 0px;
+    text-align: left;
+}
+
+.home-page.stat h3{
+    margin: 0;
+}
+
+.temp-icon:hover {
+    fill: #FF953B;
+    cursor: pointer;
+}
+
+.target-icon:hover {
+    fill: #FF953B;
+    cursor: pointer;
+}
+
+/* Target page */
+.target-page.goal {
+    font-weight: 600;
+}
+
+.target-page.to-goal {
+    font-size: 14px;
+}
+
+.target-page.graph svg {
+    width: 400px;
+    height: 325px;
+}
+
+/* Temp page */
+.temp-page.temp {
+    font-weight: 600;
+}
+
+.temp-page.change-temp {
+    border: solid 3px black;
+    width: 300px;
+    margin-left: 56px;
+    margin-top: 50px;
+}
+
+.temp-page.change-temp-function {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 24px;
+}
+
+.temp-page.display-temp {
+    padding: 0px 24px;
+}
+
+.up-arrow-rect:hover {
+    cursor: pointer;
+    fill: #FF953B;
+}
+
+.down-arrow-rect:hover {
+    cursor: pointer;
+    fill: #003486;
+}
+
+/* Project info */
+.bottle {
+    width: 50%;
+    height: 50%;
+    padding-top: 24px;
+}
+
+.project-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
