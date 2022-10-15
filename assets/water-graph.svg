@@ -1,60 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264" height="171" viewBox="0 0 264 171">
-  <defs>
-    <clipPath id="clip-path">
-      <rect width="7" height="128.5" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="Group_20" data-name="Group 20" transform="translate(-478.5 -813.5)">
-    <rect id="Rectangle_32" data-name="Rectangle 32" width="16" height="112" transform="translate(529 845)" fill="#003486"/>
-    <rect id="Rectangle_33" data-name="Rectangle 33" width="16" height="92" transform="translate(560 866)"/>
-    <rect id="Rectangle_35" data-name="Rectangle 35" width="16" height="113" transform="translate(622 845)" fill="#003486"/>
-    <rect id="Rectangle_36" data-name="Rectangle 36" width="16" height="99" transform="translate(653 859)"/>
-    <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(715 857)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3">
-      <rect width="16" height="101" stroke="none"/>
-      <rect x="0.5" y="0.5" width="15" height="100" fill="none"/>
-    </g>
-    <rect id="Rectangle_37" data-name="Rectangle 37" width="16" height="142" transform="translate(684 816)" fill="#003486"/>
-    <rect id="Rectangle_34" data-name="Rectangle 34" width="16" height="133" transform="translate(591 825)" fill="#003486"/>
-    <g id="Group_19" data-name="Group 19">
-      <g id="Group_18" data-name="Group 18">
-        <line id="Line_2" data-name="Line 2" y2="146" transform="translate(507.5 813.5)" fill="none" stroke="#404040" stroke-width="3"/>
-        <line id="Line_3" data-name="Line 3" x1="236" transform="translate(506.5 958.5)" fill="none" stroke="#404040" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="171" viewBox="0 0 264 171">
+  <g id="Group_55" data-name="Group 55" transform="translate(-496.5 -818.5)">
+    <g id="Group_20" data-name="Group 20" transform="translate(18 5)">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="16" height="112" transform="translate(529 845)" fill="#003486"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="16" height="92" transform="translate(560 866)"/>
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="16" height="113" transform="translate(622 845)" fill="#003486"/>
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="16" height="96" transform="translate(653 862)"/>
+      <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(715 857)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3">
+        <rect width="16" height="101" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15" height="100" fill="none"/>
       </g>
-      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(499.5 813.5)" clip-path="url(#clip-path)">
-        <g transform="translate(-499.5 -949)">
-          <line id="Line_4" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -928)">
-          <line id="Line_4-2" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -907)">
-          <line id="Line_4-3" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -886)">
-          <line id="Line_4-4" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -865)">
-          <line id="Line_4-5" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -844)">
-          <line id="Line_4-6" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
-        <g transform="translate(-499.5 -823)">
-          <line id="Line_4-7" data-name="Line 4" x2="7" transform="translate(499.5 949.5)" fill="none" stroke="#404040" stroke-width="1"/>
-        </g>
+      <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(684 857)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3">
+        <rect width="16" height="101" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15" height="100" fill="none"/>
       </g>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="16" height="133" transform="translate(591 825)" fill="#003486"/>
+      <g id="Group_19" data-name="Group 19">
+        <g id="Group_18" data-name="Group 18">
+          <line id="Line_2" data-name="Line 2" y2="146" transform="translate(507.5 813.5)" fill="none" stroke="#404040" stroke-width="3"/>
+          <line id="Line_3" data-name="Line 3" x1="236" transform="translate(506.5 958.5)" fill="none" stroke="#404040" stroke-width="3"/>
+        </g>
+        <line id="Line_4" data-name="Line 4" x2="7" transform="translate(499.5 814)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-2" data-name="Line 4" x2="7" transform="translate(499.5 835)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-3" data-name="Line 4" x2="7" transform="translate(499.5 856)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-4" data-name="Line 4" x2="7" transform="translate(499.5 877)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-5" data-name="Line 4" x2="7" transform="translate(499.5 898)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-6" data-name="Line 4" x2="7" transform="translate(499.5 919)" fill="none" stroke="#404040" stroke-width="1"/>
+        <line id="Line_4-7" data-name="Line 4" x2="7" transform="translate(499.5 940)" fill="none" stroke="#404040" stroke-width="1"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(492 921)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(492 878)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">2</tspan></text>
+      <text id="Liters_L_" data-name="Liters (L)" transform="translate(483.5 897) rotate(-90)" font-size="5" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Liters (L)</tspan></text>
+      <text id="Day_of_Week" data-name="Day of Week" transform="translate(613.467 982.5)" font-size="5" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Day of Week</tspan></text>
+      <text id="Monday" transform="translate(527.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Monday</tspan></text>
+      <text id="Tuesday" transform="translate(558.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Tuesday</tspan></text>
+      <text id="Wednesday" transform="translate(585.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Wednesday</tspan></text>
+      <text id="Thursday" transform="translate(619 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Thursday</tspan></text>
+      <text id="Friday" transform="translate(654 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Friday</tspan></text>
+      <text id="Saturday" transform="translate(681.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Saturday</tspan></text>
+      <text id="Sunday" transform="translate(714.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Sunday</tspan></text>
+      <text id="_3" data-name="3" transform="translate(492 837)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">3</tspan></text>
     </g>
-    <text id="_1" data-name="1" transform="translate(492 921)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">1</tspan></text>
-    <text id="_2" data-name="2" transform="translate(492 878)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">2</tspan></text>
-    <text id="Liters_L_" data-name="Liters (L)" transform="translate(483.5 897) rotate(-90)" font-size="5" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Liters (L)</tspan></text>
-    <text id="Day_of_Week" data-name="Day of Week" transform="translate(613.467 982.5)" font-size="5" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Day of Week</tspan></text>
-    <text id="Monday" transform="translate(527.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Monday</tspan></text>
-    <text id="Tuesday" transform="translate(558.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Tuesday</tspan></text>
-    <text id="Wednesday" transform="translate(585.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Wednesday</tspan></text>
-    <text id="Thursday" transform="translate(619 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Thursday</tspan></text>
-    <text id="Friday" transform="translate(654 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Friday</tspan></text>
-    <text id="Saturday" transform="translate(681.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Saturday</tspan></text>
-    <text id="Sunday" transform="translate(714.5 967.5)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Sunday</tspan></text>
-    <text id="_3" data-name="3" transform="translate(492 837)" font-size="5" font-family="OpenSans, Open Sans"><tspan x="0" y="0">3</tspan></text>
+    <line id="Line_12" data-name="Line 12" x2="242" transform="translate(518.5 850.5)" fill="none" stroke="#ff953b" stroke-width="2" stroke-dasharray="4"/>
+    <path id="Icon_ionic-ios-star" data-name="Icon ionic-ios-star" d="M10.241,6.045H7.514L6.685,3.572a.3.3,0,0,0-.564,0L5.293,6.045H2.547a.3.3,0,0,0-.3.3.218.218,0,0,0,.006.05.285.285,0,0,0,.124.21l2.242,1.58-.86,2.5a.3.3,0,0,0,.1.334.287.287,0,0,0,.167.072.363.363,0,0,0,.185-.067L6.4,9.462l2.188,1.559a.347.347,0,0,0,.185.067.266.266,0,0,0,.165-.072.294.294,0,0,0,.1-.334l-.86-2.5,2.223-1.595.054-.046a.284.284,0,0,0-.219-.5Z" transform="translate(504.943 843.268)" fill="#ff953b"/>
   </g>
 </svg>

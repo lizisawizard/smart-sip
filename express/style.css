@@ -2,27 +2,36 @@ body {
     font-family: 'open-sans', sans-serif;
     text-align: center;
     display: flex;
+    flex-wrap: wrap;
 }
 
 h1 {
     font-weight: 400;
 }
 
+.header {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    padding: 4px;
+}
+
 .screen-container {
-    width: 550px;
+    width: 535px;
     height: 650px;
     justify-content: center;
     background-image: linear-gradient(#FFFFFF, #F5F5F5);
     border: solid 2px black;
     margin-right: 50px;
+    margin-bottom: 24px;
+}
+
+.active-screen {
+    border-color: #FF953B;
 }
 
 .battery-life {
-    display: flex;    
-    padding: 4px;
-    justify-content: flex-end;
-    align-items: center;
-    background-color: black;
+    display: flex;
 }
 
 .battery-life.icon {
@@ -32,6 +41,10 @@ h1 {
 .battery-life p {
     margin: 0;
     color: white;
+}
+
+.battery-bar-low {
+    fill: #E8CE03;
 }
 
 .back-arrow {
@@ -47,15 +60,20 @@ h1 {
 
 /* Home page */
 .apple-ring {
-    margin-top: 24px;
+    margin-top: 45px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.homepage.name {
+    margin-bottom: 0;
+}
+
 .homepage.date {
-    position: absolute;
-    font-weight: 400;
+    font-weight: 100;
+    font-size: 20px;
+    margin-top: 0;
 }
 
 .homepage.stats {
@@ -128,10 +146,15 @@ h1 {
     font-weight: 600;
 }
 
+.temp-page.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .temp-page.change-temp {
     border: solid 3px black;
     width: 300px;
-    margin-left: 56px;
     margin-top: 50px;
 }
 
@@ -144,6 +167,7 @@ h1 {
 
 .temp-page.display-temp {
     padding: 0px 24px;
+    font-size: 48px;
 }
 
 .up-arrow-rect:hover {
@@ -154,6 +178,116 @@ h1 {
 .down-arrow-rect:hover {
     cursor: pointer;
     fill: #003486;
+}
+
+/* Battery page */
+.battery-page.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.battery-page.charge {
+    font-weight: 600;
+}
+
+.battery-page.button-toggles {
+    border: solid 3px black;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.battery-page.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.battery-page.deselect-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border: solid 4px black;
+    border-radius: 40px;
+    margin-right: 12px;
+    width: 60px;
+    height: 60px;
+}
+
+.battery-page.select-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    border: solid 4px black;
+    color: white;
+    border-radius: 40px;
+    margin-right: 12px;
+    width: 60px;
+    height: 60px;
+}
+
+.battery-page.select-button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #003486;
+    border-color: #003486;
+}
+
+.battery-page.deselect-button:hover {
+    cursor: pointer;
+    background-color: #FF953B;
+    border-color: #FF953B;
+}
+
+/* Watch screen */
+.watch-screen-container {
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    background-image: linear-gradient(#FFFFFF, #F5F5F5);
+    border: solid 3px black;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 12px;
+}
+.watch-apple-ring {
+    margin-top: 8px;
+}
+
+.watch.icons {
+    display: flex;
+    width: 125px;
+    justify-content: space-between;
+    margin-top: 24px;
+    align-items: center;
+}
+
+.watch.temp-display {
+    display: flex;
+    align-items: center;
+}
+
+.watch.change-temp {
+    border: solid 3px black;
+    padding: 10px 38px;
+}
+
+.watch.change-temp-function {
+    display: flex;
+    justify-content: space-between;
+}
+
+.watch-h4 {
+    margin: 15px 0px;
+}
+
+/* Settings page */
+.settings-page.content {
+    padding: 24px 0px;
 }
 
 /* Project info */

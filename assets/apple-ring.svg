@@ -1,12 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="118.782" height="118" viewBox="0 0 118.782 118">
-  <g id="Group_24" data-name="Group 24" transform="translate(-168.654 -574)">
-    <text id="_9_30_22" data-name="9/30/22" transform="translate(195 640)" font-size="20" font-family="OpenSans-Light, Open Sans" font-weight="300"><tspan x="0" y="0">9/30/22</tspan></text>
-    <g id="Group_22" data-name="Group 22" transform="translate(0.436 -12)">
-      <g id="Path_12" data-name="Path 12" transform="translate(185 602)" fill="none" opacity="0.454">
-        <path d="M43,0A43,43,0,1,1,0,43,43,43,0,0,1,43,0Z" stroke="none"/>
-        <path d="M 43 0 C 19.25176239013672 0 0 19.25176239013672 0 43 C 0 66.74823760986328 19.25176239013672 86 43 86 C 66.74823760986328 86 86 66.74823760986328 86 43 C 86 19.25176239013672 66.74823760986328 0 43 0 M 43 -16 C 75.53270721435547 -16 102 10.46729278564453 102 43 C 102 75.53270721435547 75.53270721435547 102 43 102 C 10.46729278564453 102 -16 75.53270721435547 -16 43 C -16 10.46729278564453 10.46729278564453 -16 43 -16 Z" stroke="none" fill="#ff953b"/>
+  <g id="Group_54" data-name="Group 54" transform="translate(-175.654 -599.795)">
+    <g id="Group_24" data-name="Group 24" transform="translate(7 25.795)">
+      <g id="Group_22" data-name="Group 22" transform="translate(0.436 -12)">
+        <g id="Path_12" data-name="Path 12" transform="translate(185 602)" fill="none" opacity="0.454">
+          <path d="M43,0A43,43,0,1,1,0,43,43,43,0,0,1,43,0Z" stroke="none"/>
+          <path d="M 43 0 C 19.25176239013672 0 0 19.25176239013672 0 43 C 0 66.74823760986328 19.25176239013672 86 43 86 C 66.74823760986328 86 86 66.74823760986328 86 43 C 86 19.25176239013672 66.74823760986328 0 43 0 M 43 -16 C 75.53270721435547 -16 102 10.46729278564453 102 43 C 102 75.53270721435547 75.53270721435547 102 43 102 C 10.46729278564453 102 -16 75.53270721435547 -16 43 C -16 10.46729278564453 10.46729278564453 -16 43 -16 Z" stroke="none" fill="#ff953b"/>
+        </g>
+        <path id="Path_1" data-name="Path 1" d="M-1.958,48.416c-.235-6.7-.143-21.535,12.993-33.949S31.949-1.734,52.395-1.377c19.422.339,33.308,13.394,40.28,23.888,4.421,6.653,10.781,26.959,3.707,45.878s-32,29.8-32,29.8" transform="translate(276.939 596.033) rotate(90)" fill="none" stroke="#ff953b" stroke-linecap="round" stroke-width="16"/>
       </g>
-      <path id="Path_1" data-name="Path 1" d="M-1.958,48.416c-.235-6.7-.143-21.535,12.993-33.949S31.949-1.734,52.395-1.377c19.422.339,33.308,13.394,40.28,23.888,4.421,6.653,10.781,26.959,3.707,45.878s-32,29.8-32,29.8" transform="translate(276.939 596.033) rotate(90)" fill="none" stroke="#ff953b" stroke-linecap="round" stroke-width="16"/>
     </g>
+    <text id="_89_" data-name="89%" transform="translate(218 661)" font-size="18" font-family="OpenSans-Light, Open Sans" font-weight="300"><tspan x="0" y="0">89%</tspan></text>
+    <text id="You_can_do_it_" data-name="You can do it!" transform="translate(212 675)" font-size="8" font-family="OpenSans-SemiboldItalic, Open Sans" font-weight="600" font-style="italic"><tspan x="0" y="0">you can do it!</tspan></text>
   </g>
 </svg>
