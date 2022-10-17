@@ -68,7 +68,9 @@ function toggleLowPower(lowerPower) {
         document.querySelector("#lowpower-off").classList.remove("select-button");
         document.querySelector("#lowpower-off").classList.add("deselect-button");
 
-        document.querySelector(".battery-bar").classList.add("battery-bar-low");
+        document.querySelectorAll(".battery-bar").forEach((bar => {
+            bar.classList.add("battery-bar-low");
+        }));
 
         lowerPower = true;
     }
@@ -79,7 +81,9 @@ function toggleLowPower(lowerPower) {
         document.querySelector("#lowpower-off").classList.remove("deselect-button");
         document.querySelector("#lowpower-off").classList.add("select-button");
 
-        document.querySelector(".battery-bar").classList.remove("battery-bar-low");
+        document.querySelectorAll(".battery-bar").forEach((bar => {
+            bar.classList.remove("battery-bar-low");
+        }));
 
         lowerPower = false
     }

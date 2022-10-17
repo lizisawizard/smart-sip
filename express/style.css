@@ -123,8 +123,28 @@ h1 {
 }
 
 .target-icon:hover {
-    fill: #FF953B;
     cursor: pointer;
+}
+
+.target-icon:hover path {
+    stroke: #FF953B;
+}
+
+.settings-icon:hover path {
+    cursor: pointer;
+    fill: #FF953B;
+}
+
+.battery-icon {
+    cursor: pointer;
+}
+
+.vert-battery-icon:hover {
+    cursor: pointer;
+}
+
+.vert-battery-icon:hover path {
+    fill: #FF953B;
 }
 
 /* Target page */
